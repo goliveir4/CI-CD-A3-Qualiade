@@ -1,0 +1,15 @@
+{
+  "name": "calculadora-nodejs",
+  "version": "1.0.0",
+  "description": "Um projeto simples de calculadora feito com Node.js e Jest para CI, com foco para A3 de Qualidade De Software",
+  "main": "calculadora.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
